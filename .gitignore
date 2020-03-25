@@ -107,6 +107,7 @@ public
 
 # VSCode Workspace Files
 .vscode
+*.code-workspace
 
 # Highlight database files
 /databaseFiles/storagedata.db
