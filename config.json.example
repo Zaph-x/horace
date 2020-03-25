@@ -42,11 +42,13 @@
     "pom": "🍅",
     "yes2": "562072692086276118",
     "congrats": "✔️",
-    "highlights": "☀️"
+    "highlights": "☀️",
+    "star": "⭐"
   },
   "pinLimit": 5,
   "reflectionCheckDepth": 5,
   "focusedRaiderMessageId": "000",
-  "chainMessageCharLimit": "40",
+  "chainMessageCharLimit": "40",,
+  "starLimit": 10,
   "forbiddenHighlightChannels": ["0000", "0000"]
 }
